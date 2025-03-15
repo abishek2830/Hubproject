@@ -1,8 +1,8 @@
 public class File1 {
-    File1(){
-        System.out.println("HI");
+    public File1(){
+        System.out.println("abcde");
     }
     public static void main(String[] args) {
-        
+        File1 obj =new File1();
     }
 }
